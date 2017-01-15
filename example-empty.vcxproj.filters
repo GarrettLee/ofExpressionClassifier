@@ -947,6 +947,12 @@
     <ClInclude Include="src\garrettWorkspace\expressionClassifier1.h">
       <Filter>src</Filter>
     </ClInclude>
+    <ClInclude Include="src\expressionThread.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="src\fileLoaderThread.h">
+      <Filter>src</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ResourceCompile Include="icon.rc" />

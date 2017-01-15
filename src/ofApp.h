@@ -13,7 +13,8 @@ public:
 	void update();
 	void draw();
 	void keyPressed(int key);
-	
+	void dragEvent(ofDragInfo dragInfo);
+
 	ofVideoGrabber cam;
 	ofxFaceTracker tracker;
 	ofImage pic;

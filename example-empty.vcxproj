@@ -220,6 +220,8 @@
     <ClCompile Include="src\svm.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="src\expressionThread.h" />
+    <ClInclude Include="src\fileLoaderThread.h" />
     <ClInclude Include="src\garrettWorkspace\expressionClassifier1.h" />
     <ClInclude Include="src\garrettWorkspace\expressionFeatureGetter.h" />
     <ClInclude Include="src\garrettWorkspace\imageTool.h" />
