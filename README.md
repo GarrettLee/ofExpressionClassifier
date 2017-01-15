@@ -1,0 +1,4 @@
+# ofExpressionClassifier
+
+
+ofFaceTracker + libSVM 
